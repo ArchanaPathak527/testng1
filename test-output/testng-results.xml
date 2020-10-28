@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="108" started-at="2020-10-28T15:54:06 IST" finished-at="2020-10-28T15:54:06 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="108" started-at="2020-10-28T15:54:06 IST" finished-at="2020-10-28T15:54:06 IST">
+      <class name="testproject.AppiumTest">
+        <test-method status="PASS" signature="MobileTests()[pri:0, instance:testproject.AppiumTest@23faf8f2]" name="MobileTests" duration-ms="3" started-at="2020-10-28T15:54:06 IST" finished-at="2020-10-28T15:54:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileTests -->
+        <test-method status="PASS" signature="mobileGUI()[pri:0, instance:testproject.AppiumTest@23faf8f2]" name="mobileGUI" duration-ms="2" started-at="2020-10-28T15:54:06 IST" finished-at="2020-10-28T15:54:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileGUI -->
+      </class> <!-- testproject.AppiumTest -->
+      <class name="testproject.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:testproject.SeleniumTest@d44fc21]" name="BrowserAutomation" duration-ms="23" started-at="2020-10-28T15:54:06 IST" finished-at="2020-10-28T15:54:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elemtsUI()[pri:0, instance:testproject.SeleniumTest@d44fc21]" name="elemtsUI" duration-ms="2" started-at="2020-10-28T15:54:06 IST" finished-at="2020-10-28T15:54:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elemtsUI -->
+      </class> <!-- testproject.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
